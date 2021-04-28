@@ -34,40 +34,76 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog1",
+      "image":"https://1.bp.blogspot.com/-IsLisOmEvYU/YIkWVGj3g4I/AAAAAAAAATk/MIITWRSDmb8eYTy-WVnR8sWe8xzlTVC8wCNcBGAsYHQ/s751/12.jpg"
     },
     {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "id":2,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog2",
+      "image":"https://1.bp.blogspot.com/-ciJSntZcskc/YIkWUSqXAoI/AAAAAAAAATY/7omgnMBL8pcIh6Gdi1EniIE_RQ4_85yaACNcBGAsYHQ/s951/11.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog3",
+      "image":"https://1.bp.blogspot.com/-iG4Fno_MdeU/YIkWUUISgcI/AAAAAAAAATg/KyWA2u-dIfI-ggAvVuNIFH83IINhoqwHACNcBGAsYHQ/s847/10.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog4",
+      "image":"https://1.bp.blogspot.com/-opxeBOJIBA4/YIkWXF5pW6I/AAAAAAAAAUA/CGxLofFTlpQR2-wYCKDNAz2omu13XCzeQCNcBGAsYHQ/s951/9.jpg"
+    },
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog5",
+      "image":"https://1.bp.blogspot.com/-P8nq3bODP_I/YIkWXA8W_OI/AAAAAAAAAUE/PQj3a7oHNKortEXNruKGmyjALa66mVnBgCNcBGAsYHQ/s725/8.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog6",
+      "image":"https://1.bp.blogspot.com/-GNOh_KXgS1Q/YIkWWx_X78I/AAAAAAAAAT8/LBu6CCMLBIcaphMwiRVu62weVALi8SvjgCNcBGAsYHQ/s951/7.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog7",
+      "image":"https://1.bp.blogspot.com/-PCYFctxVf_k/YIkWWtuQE_I/AAAAAAAAAT4/zE1K1ESXtJI9uGFeYDqtKeOXOMb-KsYygCNcBGAsYHQ/s825/6.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog8",
+      "image":"https://1.bp.blogspot.com/-fcoQ2W0r6Vw/YIkWWdy7DGI/AAAAAAAAAT0/o8cQmUrkSkMZP8OC_GmpL2OAXB7YQXOVwCNcBGAsYHQ/s709/5.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog9",
+      "image":"https://1.bp.blogspot.com/-pAovNU_wbuo/YIkWV0ZReWI/AAAAAAAAATw/_kPNfLSoVRsD1hGG2wi3IPh5nXvzfri3wCNcBGAsYHQ/s800/4.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog10",
+      "image":"https://1.bp.blogspot.com/-B_OWjVwgVPU/YIkWVeWMVGI/AAAAAAAAATs/AsumWTIoUxMefywwh5d7kh7TMwIevtl7QCNcBGAsYHQ/s951/3.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog11",
+      "image":"https://1.bp.blogspot.com/-ZUGRHaoUyz8/YIkWVYUqwnI/AAAAAAAAATo/UmXKaPBmPfIW0w3ncArKBolBLI0KXmIfgCNcBGAsYHQ/s900/2.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Puppy Wallpaper",
+      "title":"Pupy and Dog12",
+      "image":"https://1.bp.blogspot.com/-se9fIMh-u3g/YIkWUfMMnBI/AAAAAAAAATc/4tVcvJV_J5AWvqbgE5KWHynCwbt02AQ2ACNcBGAsYHQ/s900/1.jpg"
     }
+
   ]
 }
